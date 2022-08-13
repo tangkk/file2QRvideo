@@ -1,0 +1,8 @@
+*.avi
+*.mp4
+*.pdf
+.idea/
+*.swp
+__pycache__/
+.DS_Store
+
