@@ -16,3 +16,6 @@ You'll need python packages in `requirements.txt` to run the scripts.
 Note that if you want to transfer the video, you can use a camera to shot the computer screen.
 Make sure the camera stand still, and the video framerate is not over-high.
 You can adjust the output framerate in the `file2QRvideo.py` script.
+
+![Alt Text](https://github.com/tangkk/file2QRvideo/testvideo.gif)
+
